@@ -1,0 +1,35 @@
+# Список ссылок, на которых тестировалась программа
+
+
+# Газета
+
+http://www.gazeta.ru/culture/2016/07/05/a_8368193.shtml
+http://www.gazeta.ru/business/2016/06/17/8313485.shtml#
+http://www.gazeta.ru/science/2016/07/05_a_8368613.shtml
+http://www.gazeta.ru/politics/news/2016/07/06/n_8847641.shtml
+
+
+# РИА новости
+
+http://ria.ru/society/20160707/1460401329.html
+http://ria.ru/economy/20160627/1453108720.html
+http://ria.ru/society/20160706/1459798430.html
+http://ria.ru/religion/20160707/1460727149.html
+
+
+
+# Лента 
+
+https://lenta.ru/news/2016/07/06/messiprison21/
+https://lenta.ru/articles/2016/07/05/kotlyarenko/
+https://lenta.ru/news/2016/07/07/sberdeposit/
+https://lenta.ru/articles/2016/07/05/pirelli/
+
+
+
+# Комсомольская правда
+
+http://www.kp.ru/online/news/2443643/
+http://www.samara.kp.ru/daily/26552.4/3568783/
+http://www.samara.kp.ru/daily/26551/3568281/
+http://www.samara.kp.ru/daily/26552.4/3568470/
